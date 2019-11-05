@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\bin\Debug\BaiKiemTra01.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\bin\Debug\BaiKiemTra01.exe
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\bin\Debug\BaiKiemTra01.pdb
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\obj\Debug\BaiKiemTra01.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\obj\Debug\BaiKiemTra01.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\obj\Debug\BaiKiemTra01.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\obj\Debug\BaiKiemTra01.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\obj\Debug\BaiKiemTra01.exe
+c:\users\dell\documents\visual studio 2015\Projects\BaiKiemTra01\BaiKiemTra01\obj\Debug\BaiKiemTra01.pdb
